@@ -1,0 +1,33 @@
+﻿{
+	"version": 1774574330,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/player-sheet0.png",
+		"images/bullet-sheet0.png",
+		"images/enemy-sheet0.png",
+		"images/enemybullet-sheet0.png",
+		"images/star-sheet0.png",
+		"images/sprite-sheet0.png",
+		"media/enemy death.m4a",
+		"media/enemy death.ogg",
+		"media/enemy fire.m4a",
+		"media/enemy fire.ogg",
+		"media/item.m4a",
+		"media/item.ogg",
+		"media/player death.m4a",
+		"media/player death.ogg",
+		"media/player fire.m4a",
+		"media/player fire.ogg",
+		"media/2026 music.m4a",
+		"media/2026 music.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
